@@ -1,0 +1,9 @@
+C:\Users\mounir\source\repos\GreenFlux.HolidayOptimizer\CoreApiClient\bin\Debug\netstandard2.0\CoreApiClient.deps.json
+C:\Users\mounir\source\repos\GreenFlux.HolidayOptimizer\CoreApiClient\bin\Debug\netstandard2.0\CoreApiClient.dll
+C:\Users\mounir\source\repos\GreenFlux.HolidayOptimizer\CoreApiClient\bin\Debug\netstandard2.0\CoreApiClient.pdb
+C:\Users\mounir\source\repos\GreenFlux.HolidayOptimizer\CoreApiClient\obj\Debug\netstandard2.0\CoreApiClient.csproj.CoreCompileInputs.cache
+C:\Users\mounir\source\repos\GreenFlux.HolidayOptimizer\CoreApiClient\obj\Debug\netstandard2.0\CoreApiClient.AssemblyInfoInputs.cache
+C:\Users\mounir\source\repos\GreenFlux.HolidayOptimizer\CoreApiClient\obj\Debug\netstandard2.0\CoreApiClient.AssemblyInfo.cs
+C:\Users\mounir\source\repos\GreenFlux.HolidayOptimizer\CoreApiClient\obj\Debug\netstandard2.0\CoreApiClient.dll
+C:\Users\mounir\source\repos\GreenFlux.HolidayOptimizer\CoreApiClient\obj\Debug\netstandard2.0\CoreApiClient.pdb
+C:\Users\mounir\source\repos\GreenFlux.HolidayOptimizer\CoreApiClient\obj\Debug\netstandard2.0\CoreApiClient.csprojAssemblyReference.cache
